@@ -4,6 +4,19 @@
 <h1 align="center">Hi 👋, I'm Austin</h1>
 <h3 align="center">A passionate full stack developer living in Denver,CO</h3>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/austin-burdette-a7a4a6100/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/brownEggBoi">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+
 - 👨‍💻 All of my projects are available at [https://austinburdette.netlify.app/](https://austinburdette.netlify.app/)
 
 - 💬 Ask me about **Javascript, Space, and My Reading List**
