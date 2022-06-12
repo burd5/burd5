@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/A7QVWNI" width="100%">
+<img src="https://imgur.com/a/A7QVWNI.jpg" width="100%">
 
 <p align="center">
   <a href="#" target="_blank">
@@ -28,7 +28,7 @@ See [my website](https://austinburdette.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+      <h3 align="center"></h3>
         <br />
         <a target="_blank" href="#">
             <img src="" width="100%" alt="Travel App"/>
@@ -46,7 +46,7 @@ See [my website](https://austinburdette.netlify.app/) for more information!
         <p><strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center"></h3>
         <br />
       <a target="_blank" href="#">
             <img src="#" width="100%"  alt="Rigley 2"/>
@@ -67,7 +67,7 @@ See [my website](https://austinburdette.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center"></h3>
       <br />
         <a target="_blank" href="#">
           <img src="" width="100%" alt="Portfolio"/>
@@ -84,7 +84,7 @@ See [my website](https://austinburdette.netlify.app/) for more information!
         <p><strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center"></h3>
         <br />
         <a target="_blank" href="#">
           <img src="" width="100%" alt="Matching Cards"/>
