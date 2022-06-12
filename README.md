@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Austin</h1>
+<h1 align="center" background="green">Hi 👋, I'm Austin</h1>
 <h3 align="center">A passionate full stack developer living in Denver,CO</h3>
 
 - 👨‍💻 All of my projects are available at [https://austinburdette.netlify.app/](https://austinburdette.netlify.app/)
