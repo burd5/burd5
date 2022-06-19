@@ -31,7 +31,7 @@ See [my website](https://austinburdette.netlify.app/) for more information!
       <h3 align="center"></h3>
         <br />
         <a target="_blank" href="#">
-            <img src="images/Portfolio/images/nasa.jpg" width="100%" alt=""/>
+            <img src="" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
