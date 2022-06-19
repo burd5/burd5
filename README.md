@@ -27,11 +27,11 @@ See [my website](https://austinburdette.netlify.app/) for more information!
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top" halign="center">
+    <td width="50%" valign="top">
       <h3 align="center"></h3>
         <br />
         <a target="_blank" href="#">
-            <img src="" width="100%" alt=""/>
+            <img src="images/Portfolio/images/nasa.jpg" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
