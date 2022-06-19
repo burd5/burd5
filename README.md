@@ -1,4 +1,4 @@
-<img src="(https://imgur.com/a/A7QVWNI)" width="100%">
+<img src="https://i.imgur.com/320GxgO.jpg" width="100%">
 
 <p align="center">
   <a href="#" target="_blank">
