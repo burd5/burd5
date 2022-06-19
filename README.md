@@ -26,8 +26,8 @@ See [my website](https://austinburdette.netlify.app/) for more information!
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
-  <tr align="center">
-    <td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top" halign="center">
       <h3 align="center"></h3>
         <br />
         <a target="_blank" href="#">
