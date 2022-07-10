@@ -28,10 +28,10 @@ See [my website](https://austinburdette.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"></h3>
+      <h3 align="center">NASA</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="" width="100%" alt=""/>
+            <img src="https://media.wired.com/photos/5a593a7ff11e325008172bc2/master/pass/pulsar-831502910.jpg" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
@@ -46,10 +46,10 @@ See [my website](https://austinburdette.netlify.app/) for more information!
         <p><strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"></h3>
+      <h3 align="center">NASA</h3>
         <br />
       <a target="_blank" href="#">
-            <img src="#" width="100%"  alt=""/>
+            <img src="https://media.wired.com/photos/5a593a7ff11e325008172bc2/master/pass/pulsar-831502910.jpg" width="100%"  alt=""/>
         </a>
         <br />
         <p align="center">
@@ -67,10 +67,10 @@ See [my website](https://austinburdette.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"></h3>
+      <h3 align="center">NASA</h3>
       <br />
         <a target="_blank" href="#">
-          <img src="" width="100%" alt=""/>
+          <img src="https://media.wired.com/photos/5a593a7ff11e325008172bc2/master/pass/pulsar-831502910.jpg" width="100%" alt=""/>
         </a>
       <br />
         <p align="center">
@@ -84,10 +84,10 @@ See [my website](https://austinburdette.netlify.app/) for more information!
         <p><strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"></h3>
+      <h3 align="center">NASA</h3>
         <br />
         <a target="_blank" href="#">
-          <img src="" width="100%" alt=""/>
+          <img src="https://media.wired.com/photos/5a593a7ff11e325008172bc2/master/pass/pulsar-831502910.jpg" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
