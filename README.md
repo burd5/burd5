@@ -46,7 +46,7 @@ See [my website](https://austinburdette.netlify.app/) for more information!
         <p><strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">NASA</h3>
+      <h3 align="center">Book Club</h3>
         <br />
       <a target="_blank" href="#">
             <img src="https://media.wired.com/photos/5a593a7ff11e325008172bc2/master/pass/pulsar-831502910.jpg" width="100%"  alt=""/>
@@ -67,7 +67,7 @@ See [my website](https://austinburdette.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">NASA</h3>
+      <h3 align="center">100 Hours Project</h3>
       <br />
         <a target="_blank" href="#">
           <img src="https://media.wired.com/photos/5a593a7ff11e325008172bc2/master/pass/pulsar-831502910.jpg" width="100%" alt=""/>
@@ -84,7 +84,7 @@ See [my website](https://austinburdette.netlify.app/) for more information!
         <p><strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">NASA</h3>
+      <h3 align="center">Riddle Me This</h3>
         <br />
         <a target="_blank" href="#">
           <img src="https://media.wired.com/photos/5a593a7ff11e325008172bc2/master/pass/pulsar-831502910.jpg" width="100%" alt=""/>
