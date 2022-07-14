@@ -42,10 +42,11 @@ See [my website](https://austinburdette.netlify.app/) for more information!
       <h3 align="center">NASA</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="https://media.wired.com/photos/5a593a7ff11e325008172bc2/master/pass/pulsar-831502910.jpg" width="100%" alt=""/>
+            <img src="burd5.github (1).gif" width="100%" alt=""/>
         </a>
         <br />
-        <p align="center">
+        <p align="center"> A simple app made for the Denver Astronomical Society. The app allows the user to view the NASA picture of the day as well as view previous posts from the repository. The application utilizes a NASA API. </p>
+        
           
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
