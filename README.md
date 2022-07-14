@@ -1,5 +1,18 @@
 <img src="https://i.imgur.com/320GxgO.jpg" width="100%">
 
+<h1>💫 About Me : </h1>
+🔭 I’m currently building Book Club. <br>
+🌱 I’m currently learning more about Node.js <br>
+👯 I’m looking to collaborate on full stack web applications (especially those that are space/science involved). <br>
+🤔 I’m looking for help with React.js <br>
+💬 Ask me about Space or what books I'm reading. <br>
+📫 How to reach me: Check social links below. <br>
+⚡ Fun fact: I am a twin. <br><br>
+
+See [my website](https://austinburdette.netlify.app/) for more information! 
+
+<br>
+
 <p align="center">
   <a href="https://austinburdette.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
@@ -18,9 +31,7 @@
   </a>
 </p>
 
-
-
-See [my website](https://austinburdette.netlify.app/) for more information!
+<br>
 
 
 <h1 align="center">Projects</h1>
