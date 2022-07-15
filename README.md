@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/320GxgO.jpg" width="100%">
+<img src="title.png" width="100%">
 
 <h1>💫 About Me : </h1>
 🔭 I’m currently building Book Club. <br>
