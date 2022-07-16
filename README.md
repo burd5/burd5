@@ -7,7 +7,7 @@
 🤔 I’m looking for help with React.js <br>
 💬 Ask me about Space or what books I'm reading. <br>
 📫 How to reach me: Check social links below. <br>
-⚡ Fun fact: I am a twin. <br><br>
+⚡ Fun fact: I have lived in Maryland, Cambodia, Alaska, and Colorado. <br><br>
 
 See [my website](https://austinburdette.netlify.app/) for more information! 
 
