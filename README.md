@@ -39,7 +39,7 @@ See [my website](https://austinburdette.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">NASA</h3>
+      <h3 align="center">NASA Picture of the Day</h3>
         <br />
         <a target="_blank" href="https://burd5.github.io/NASA/">
             <img src="burd5.github (1).gif" width="100%" alt=""/>
