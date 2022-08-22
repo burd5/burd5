@@ -1,8 +1,8 @@
-<img src="My project.png" width="100%">
+<img src="linkedinbanner.png" width="100%">
 
 <h1>💫 About Me : </h1>
 🔭 I’m currently building Book Club. <br>
-🌱 I’m currently learning more about Node.js <br>
+🌱 I’m currently learning Node.js and React.js <br>
 👯 I’m looking to collaborate on full stack web applications (especially those that are space/science involved). <br>
 🤔 I’m looking for help with React.js <br>
 💬 Ask me about Space or what books I'm reading. <br>
