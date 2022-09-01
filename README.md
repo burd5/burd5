@@ -60,7 +60,7 @@ See [my website](https://austinburdette.netlify.app/) for more information!
       <h3 align="center">Book List</h3>
         <br />
       <a target="_blank" href="#">
-            <img src="booklist.png" width="100%"  alt=""/>
+            <img src="bookclub.gif" width="100%"  alt=""/>
         </a>
         <br />
         <p align="center"> A full stack web application that allows the user to add the name of books and authors they've read for the year. The application sorts the books by rating and allows the user to delete and add books as necessary while keeping track of the total number of books read.</p>
@@ -78,7 +78,7 @@ See [my website](https://austinburdette.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">100 Hours Project</h3>
+      <h3 align="center">Tea Time</h3>
       <br />
         <a target="_blank" href="#">
           <img src="https://media.wired.com/photos/5a593a7ff11e325008172bc2/master/pass/pulsar-831502910.jpg" width="100%" alt=""/>
@@ -95,7 +95,7 @@ See [my website](https://austinburdette.netlify.app/) for more information!
         <p><strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Riddle Me This</h3>
+      <h3 align="center">Workout Generator</h3>
         <br />
         <a target="_blank" href="#">
           <img src="https://media.wired.com/photos/5a593a7ff11e325008172bc2/master/pass/pulsar-831502910.jpg" width="100%" alt=""/>
