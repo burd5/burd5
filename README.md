@@ -9,7 +9,7 @@
 📫 How to reach me: Check social links below. <br>
 ⚡ Fun fact: I have lived in Maryland, Cambodia, Alaska, and Colorado. <br><br>
 
-See [my website](https://austinburdette.netlify.app/) for more information! 
+See [my website](https://austinburdette.vercel.app/) for more information! 
 
 <br>
 
