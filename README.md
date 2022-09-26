@@ -2,7 +2,7 @@
 
 <h1>💫 About Me : </h1>
 🔭 I’m currently building Book Club. <br>
-🌱 I’m currently learning Node.js and React.js <br>
+🌱 I’m currently learning React.js and Tailwind <br>
 👯 I’m looking to collaborate on full stack web applications (especially those that are space/science involved). <br>
 🤔 I’m looking for help with React.js <br>
 💬 Ask me about Space or what books I'm reading. <br>
