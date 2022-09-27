@@ -57,7 +57,7 @@ See [my website](https://austinburdette.vercel.app/) for more information!
         <p><strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Book List</h3>
+      <h3 align="center">Book Club</h3>
         <br />
       <a target="_blank" href="#">
             <img src="bookclub.gif" width="100%"  alt=""/>
