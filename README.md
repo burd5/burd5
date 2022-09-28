@@ -48,10 +48,10 @@ See [my website](https://austinburdette.vercel.app/) for more information!
         <p align="center"> A an app made for the Denver Astronomical Society. The app allows the user to view the NASA picture of the day as well as view previous posts from the repository. The application utilizes a NASA API.
       <br /><br />
   <a href="https://github.com/burd5/NASA" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=eb6434&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://burd5.github.io/NASA/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=eb6434&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong></p>
@@ -66,10 +66,10 @@ See [my website](https://austinburdette.vercel.app/) for more information!
         <p align="center"> A full stack web application that allows the user to add the name of books and authors they've read for the year. The application sorts the books by rating and allows the user to delete and add books as necessary while keeping track of the total number of books read.
    <br /><br />
   <a href="https://github.com/burd5/book_club_ejs" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=eb6434&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://book-club.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=eb6434&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong></p>
@@ -86,10 +86,10 @@ See [my website](https://austinburdette.vercel.app/) for more information!
       <br />
         <p align="center">
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=eb6434&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=eb6434&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong></p>
@@ -104,10 +104,10 @@ See [my website](https://austinburdette.vercel.app/) for more information!
         <p align="center">
           
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=eb6434&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=eb6434&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong></p>
