@@ -13,21 +13,20 @@ See [my website](https://austinburdette.vercel.app/) for more information!
 
 <br>
 
+<h1 align="center">Connect</h1>
+
 <p align="center">
   <a href="https://austinburdette.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=eb6434&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/austin-burdette/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=eb6434&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/brownEggBoi" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=eb6434&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="#" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  <a href="https://angel.co/u/austin-burdette" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=eb6434&style=plastic&logo=angellist&logo-color=white"/>
   </a>
 </p>
 
@@ -38,6 +37,24 @@ See [my website](https://austinburdette.vercel.app/) for more information!
 <table bordercolor="#66b2b2">
   
   <tr>
+      <td width="50%" valign="top">
+      <h3 align="center">Book Club</h3>
+        <br />
+      <a target="_blank" href="#">
+            <img src="bookclubfinal.gif" width="100%"  alt=""/>
+        </a>
+        <br />
+        <p align="center"> A full stack web application that allows the user to add the name of books and authors they've read for the year. The application sorts the books by rating and allows the user to delete and add books as necessary while keeping track of the total number of books read.
+   <br /><br />
+  <a href="https://github.com/burd5/book_club_ejs" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=eb6434&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://book-club.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=eb6434&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong></p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">NASA Picture of the Day</h3>
         <br />
@@ -51,24 +68,6 @@ See [my website](https://austinburdette.vercel.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=eb6434&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://burd5.github.io/NASA/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=eb6434&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Book Club</h3>
-        <br />
-      <a target="_blank" href="#">
-            <img src="bookclub.gif" width="100%"  alt=""/>
-        </a>
-        <br />
-        <p align="center"> A full stack web application that allows the user to add the name of books and authors they've read for the year. The application sorts the books by rating and allows the user to delete and add books as necessary while keeping track of the total number of books read.
-   <br /><br />
-  <a href="https://github.com/burd5/book_club_ejs" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=eb6434&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://book-club.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=eb6434&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -145,26 +144,3 @@ See [my website](https://austinburdette.vercel.app/) for more information!
 
 
 ---
-
-
-<h1 align="center">Connect</h1>
-
-
-
-<p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="#" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="#" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-</p>
