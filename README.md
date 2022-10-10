@@ -1,10 +1,9 @@
 <img src="banner.png" width="100%">
 
 <h1>💫 About Me : </h1>
-🔭 I’m currently building Tea Time. <br>
+🔭 I’m currently building Movie Tracker. <br>
 🌱 I’m currently learning React.js and Tailwind <br>
 👯 I’m looking to collaborate on full stack web applications (especially those that are space/science involved). <br>
-🤔 I’m looking for help with React.js <br>
 💬 Ask me about Space or what books I'm reading. <br>
 📫 How to reach me: Check social links below. <br>
 ⚡ Fun fact: I have lived in Maryland, Cambodia, Alaska, and Colorado. <br><br>
