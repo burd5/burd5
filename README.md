@@ -8,7 +8,7 @@
 📫 How to reach me: Check social links below. <br>
 ⚡ Fun fact: I have lived in Maryland, Cambodia, Alaska, and Colorado. <br><br>
 
-See [my website](https://austinburdette.vercel.app/) for more information! 
+<p align="center">See [my website](https://austinburdette.vercel.app/) for more information!</p>
 
 <br>
 
@@ -94,6 +94,44 @@ See [my website](https://austinburdette.vercel.app/) for more information!
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Workout Generator</h3>
+        <br />
+        <a target="_blank" href="#">
+          <img src="comingsoon.jpeg" width="100%" alt=""/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=eb6434&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=eb6434&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong></p>
+    </td>
+  </tr>
+  
+   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Movie Tracker</h3>
+      <br />
+        <a target="_blank" href="#">
+          <img src="comingsoon.jpeg" width="100%" alt=""/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=eb6434&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=eb6434&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Future U Dashboard</h3>
         <br />
         <a target="_blank" href="#">
           <img src="comingsoon.jpeg" width="100%" alt=""/>
