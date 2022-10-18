@@ -1,7 +1,7 @@
 <img src="banner.png" width="100%">
 
 <h1>💫 About Me : </h1>
-🔭 I’m currently building Movie Tracker. <br>
+🔭 I’m currently building Future U Dashboard <br>
 🌱 I’m currently learning React.js and Tailwind <br>
 👯 I’m looking to collaborate on full stack web applications (especially those that are space/science involved). <br>
 💬 Ask me about Space or what books I'm reading. <br>
@@ -58,10 +58,12 @@
       <h3 align="center">King of the Hill</h3>
       <br />
         <a target="_blank" href="#">
-          <img src="comingsoon.jpeg" width="100%" alt=""/>
+          <img src="kingofthehill.gif" width="100%" height="100%" alt=""/>
         </a>
       <br />
-        <p align="center">
+        <p align="center"> A full stack web application that allows user to keep track of the "king of the hill" based on their personal interests. The original app was created to keep track of movies, cafes, and diners. Users can add items to their list and see a ranking of where each spot stands. The current "king" is shown on the main page underneath each collection. 
+     <br />
+     <br />
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=eb6434&style=plastic&logo=github&logo-color=white"/>
   </a>
