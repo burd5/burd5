@@ -55,18 +55,17 @@
         <p><strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">NASA Picture of the Day</h3>
-        <br />
-        <a target="_blank" href="https://burd5.github.io/NASA/">
-            <img src="burd5.github (1).gif" width="100%" alt=""/>
+      <h3 align="center">King of the Hill</h3>
+      <br />
+        <a target="_blank" href="#">
+          <img src="comingsoon.jpeg" width="100%" alt=""/>
         </a>
-        <br />
-        <p align="center"> A an app made for the Denver Astronomical Society. The app allows the user to view the NASA picture of the day as well as view previous posts from the repository. The application utilizes a NASA API.
-      <br /><br />
-  <a href="https://github.com/burd5/NASA" target="_blank">
+      <br />
+        <p align="center">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=eb6434&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://burd5.github.io/NASA/" target="_blank">
+  </a>
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=eb6434&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -92,19 +91,19 @@
       </p>
         <p><strong></p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Workout Generator</h3>
+        <td width="50%" valign="top">
+      <h3 align="center">NASA Picture of the Day</h3>
         <br />
-        <a target="_blank" href="#">
-          <img src="comingsoon.jpeg" width="100%" alt=""/>
+        <a target="_blank" href="https://burd5.github.io/NASA/">
+            <img src="burd5.github (1).gif" width="100%" alt=""/>
         </a>
         <br />
-        <p align="center">
-          
-  <a href="#" target="_blank">
+        <p align="center"> A an app made for the Denver Astronomical Society. The app allows the user to view the NASA picture of the day as well as view previous posts from the repository. The application utilizes a NASA API.
+      <br /><br />
+  <a href="https://github.com/burd5/NASA" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=eb6434&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="#" target="_blank">
+  </a>  
+  <a href="https://burd5.github.io/NASA/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=eb6434&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -113,14 +112,15 @@
   </tr>
   
    <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Movie Tracker</h3>
-      <br />
+        <td width="50%" valign="top">
+      <h3 align="center">Workout Generator</h3>
+        <br />
         <a target="_blank" href="#">
           <img src="comingsoon.jpeg" width="100%" alt=""/>
         </a>
-      <br />
+        <br />
         <p align="center">
+          
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=eb6434&style=plastic&logo=github&logo-color=white"/>
   </a>
