@@ -1,7 +1,7 @@
 <img src="banner.png" width="100%">
 
 <h1>💫 About Me : </h1>
-🔭 I’m currently building Future U Dashboard <br>
+🔭 I’m currently building Tea Time <br>
 🌱 I’m currently learning React.js and Tailwind <br>
 👯 I’m looking to collaborate on full stack web applications (especially those that are space/science involved). <br>
 💬 Ask me about Space or what books I'm reading. <br>
@@ -16,16 +16,16 @@
 
 <p align="center">
   <a href="https://austinburdette.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=eb6434&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=for-the-badge&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/austin-burdette/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=eb6434&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=35F5FA&style=for-the-badge&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/brownEggBoi" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=eb6434&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=35F5FA&style=for-the-badge&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://angel.co/u/austin-burdette" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=eb6434&style=plastic&logo=angellist&logo-color=white"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=35F5FA&style=for-the-badge&logo=angellist&logo-color=white"/>
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 
 
 <h1 align="center">Projects</h1>
-<table bordercolor="#66b2b2">
+<table>
   
   <tr>
       <td width="50%" valign="top">
@@ -46,10 +46,10 @@
         <p align="center"> A full stack web application that allows the user to add the name of books and authors they've read for the year. The application sorts the books by rating and allows the user to delete and add books as necessary while keeping track of the total number of books read.
    <br /><br />
   <a href="https://github.com/burd5/book_club_ejs" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=eb6434&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://book-club.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=eb6434&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong></p>
@@ -65,10 +65,10 @@
      <br />
      <br />
   <a href="https://github.com/burd5/king-of-the-hill" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=eb6434&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://kingofthehill.cyclic.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=eb6434&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong></p>
@@ -76,19 +76,21 @@
   </tr>
   
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Tea Time</h3>
-      <br />
-        <a target="_blank" href="#">
-          <img src="comingsoon.jpeg" width="100%" alt=""/>
+        <td width="50%" valign="top">
+      <h3 align="center">Future U Dashboard</h3>
+        <br />
+        <a target="_blank" href="https://future-u-dashboard.vercel.app/">
+          <img src="future-u-dashboard.gif" width="100%" alt=""/>
         </a>
-      <br />
-        <p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=eb6434&style=plastic&logo=github&logo-color=white"/>
+        <br />
+        <p align="center"> This React application keeps track of key metrics for the Future U Young Adult Team at A/D Works! Team members can view team or personal statistics, which include graphs, trends, and team rank. 
+        <br /><br />
+          
+  <a href="https://github.com/burd5/future-u-dashboard" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=eb6434&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="https://future-u-dashboard.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong></p>
@@ -103,10 +105,10 @@
         <p align="center"> A an app made for the Denver Astronomical Society. The app allows the user to view the NASA picture of the day as well as view previous posts from the repository. The application utilizes a NASA API.
       <br /><br />
   <a href="https://github.com/burd5/NASA" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=eb6434&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://burd5.github.io/NASA/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=eb6434&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong></p>
@@ -124,28 +126,27 @@
         <p align="center">
           
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=eb6434&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=eb6434&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA4&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Future U Dashboard</h3>
-        <br />
+      <h3 align="center">Tea Time</h3>
+      <br />
         <a target="_blank" href="#">
           <img src="comingsoon.jpeg" width="100%" alt=""/>
         </a>
-        <br />
+      <br />
         <p align="center">
-          
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=eb6434&style=plastic&logo=github&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=eb6434&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong></p>
