@@ -98,7 +98,7 @@
         <td width="50%" valign="top">
       <h3 align="center">NASA Picture of the Day</h3>
         <br />
-        <a target="_blank" href="https://burd5.github.io/NASA/">
+        <a target="_blank" href="https://nasa-api-flame.vercel.app/">
             <img src="burd5.github (1).gif" width="100%" alt=""/>
         </a>
         <br />
@@ -107,7 +107,7 @@
   <a href="https://github.com/burd5/NASA" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://burd5.github.io/NASA/" target="_blank">
+  <a href="https://nasa-api-flame.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
