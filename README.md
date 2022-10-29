@@ -159,21 +159,45 @@
 
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=NODE&color=4a935c&style=plastic&logo=node"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND&color=cbb148&style=plastic&logo="/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS MATERIALIZE&color=cbb148&style=plastic&logo="/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MATERIAL UI&color=cbb148&style=plastic&logo="/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=HTML5&logoColor=white&labelColor=AD9D90&label=&message=HTML&color=AD9D90"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=CSS3&logoColor=white&labelColor=AD9D90&label=&message=CSS&color=AD9D90"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=javascript&logoColor=white&labelColor=AD9D90&label=&message=JAVASCRIPT&color=AD9D90"/>
+  </a>
+  <a href="https://beta.reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=react&logoColor=white&labelColor=AD9D90&label=&message=REACT&color=AD9D90"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=bootstrap&logoColor=white&labelColor=AD9D90&label=&message=BOOTSTRAP&color=AD9D90"/>
+  </a>
+  <a href="https://www.w3schools.com/sass/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=sass&logoColor=white&labelColor=AD9D90&label=&message=SASS&color=AD9D90"/>
+  </a>
+  <a href="https://tailwindcss.com/docs/installation" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=tailwindcss&logoColor=white&labelColor=AD9D90&label=&message=TAILWIND&color=AD9D90"/>
+  </a>
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=mongodb&logoColor=white&labelColor=AD9D90&label=&message=MONGODB&color=AD9D90"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=express&logoColor=white&labelColor=AD9D90&label=&message=EXPRESS&color=AD9D90"/>
+  </a>
+  <a href="https://nodejs.org/en/docs/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=nodedotjs&logoColor=white&labelColor=AD9D90&label=&message=NODE&color=AD9D90"/>
+  </a>
+  <a href="https://www.git-scm.com/doc" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=git&logoColor=white&labelColor=AD9D90&label=&message=GIT&color=AD9D90"/>
+  </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=mysql&logoColor=white&labelColor=AD9D90&label=&message=MYSQL&color=AD9D90"/>
+  </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=materialize&logoColor=white&labelColor=AD9D90&label=&message= MATERIALIZE CSS&color=AD9D90"/>
+  </a> 
 </p>
 
 
