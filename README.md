@@ -1,4 +1,4 @@
-<img src="banner.png" width="100%">
+<img src="githubbannercropped.jpg" width="100%">
 
 <h1>💫 About Me : </h1>
 🔭 I’m currently building Tea Time <br>
