@@ -1,7 +1,7 @@
 <img src="githubbanner2.jpg" width="100%">
 
 <h1>💫 About Me : </h1>
-🔭 I’m currently building Tea Time <br>
+🔭 I’m currently building <a href="https://github.com/burd5/tea-time" target="_blank">Tea Time</a> <br>
 🌱 I’m currently learning React.js and Tailwind <br>
 👯 I’m looking to collaborate on full stack web applications (especially those that are space/science involved). <br>
 💬 Ask me about Space or what books I'm reading. <br>
