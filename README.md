@@ -2,7 +2,7 @@
 
 <h1>💫 About Me : </h1>
 🔭 I’m currently building <a href="https://github.com/burd5/tea-time" target="_blank">Tea Time</a> <br>
-🌱 I’m currently learning React.js and Tailwind <br>
+🌱 I’m currently focusing on React.js and Tailwind <br>
 👯 I’m looking to collaborate on full stack web applications (especially those that are space/science involved). <br>
 💬 Ask me about Space or what books I'm reading. <br>
 📫 How to reach me: Check social links below. <br>
