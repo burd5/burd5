@@ -138,10 +138,11 @@
       <h3 align="center">Tea Time</h3>
       <br />
         <a target="_blank" href="#">
-          <img src="comingsoon.jpeg" width="100%" alt=""/>
+          <img src="teatime.gif" width="100%" alt=""/>
         </a>
       <br />
-        <p align="center">
+        <p align="center"> This application allows tea amateurs and aficionados to find a new tea, either through the tea generator or by sorting through the tea collection. Users can create a profile to save their favorite teas.
+      <br /><br />
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/>
   </a>
