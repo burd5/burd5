@@ -39,7 +39,7 @@
       <td width="50%" valign="top">
       <h3 align="center">Book Club</h3>
         <br />
-      <a target="_blank" href="https://book-club.onrender.com/">
+      <a target="_blank" href="https://bookclub.cyclic.app/">
             <img src="bookclubfinal.gif" width="100%"  alt=""/>
         </a>
         <br />
@@ -48,7 +48,7 @@
   <a href="https://github.com/burd5/book_club_ejs" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://book-club.onrender.com/" target="_blank">
+  <a href="https://bookclub.cyclic.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
