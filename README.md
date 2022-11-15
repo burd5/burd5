@@ -117,7 +117,7 @@
   
    <tr>
         <td width="50%" valign="top">
-      <h3 align="center">Workout Generator</h3>
+      <h3 align="center">Burd's Brown Egg</h3>
         <br />
         <a target="_blank" href="#">
           <img src="comingsoon.jpeg" width="100%" alt=""/>
