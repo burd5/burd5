@@ -120,15 +120,15 @@
       <h3 align="center">Burd's Brown Egg</h3>
         <br />
         <a target="_blank" href="#">
-          <img src="comingsoon.jpeg" width="100%" alt=""/>
+          <img src="burdsbrownegg.gif" width="100%" alt=""/>
         </a>
         <br />
-        <p align="center">
+        <p align="center"> Burd's Brown Egg is a React web application for the game Burd's Brown Egg. The game is part myth, part joke, but an actual thing. The website allows user to learn about the game, it's history, the rules, etc. </br></br>
           
   <a href="https://github.com/burd5/burds-brown-egg" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://burds-brown-egg.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
