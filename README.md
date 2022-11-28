@@ -201,6 +201,8 @@
   </a> 
 </p>
 
+
+<h2>Code Wars Rank</h2>
 <img align="center" src="5kyu.png" alt="code wars rank">
 
 
