@@ -1,7 +1,7 @@
 <img src="githubbanner2.jpg" width="100%">
 
 <h1>💫 About Me : </h1>
-🔭 I’m currently building <a href="https://github.com/burd5/tea-time" target="_blank">Tea Time</a> <br>
+🔭 I’m currently building <a href="https://itsteatime.vercel.app/" target="_blank">Tea Time</a> <br>
 🌱 I’m currently focusing on React.js, Next.js and Tailwind CSS<br>
 👯 I’m looking to collaborate on full stack web applications (especially those that are space/science involved). <br>
 💬 Ask me about Space or what books I'm reading. <br>
@@ -143,10 +143,10 @@
       <br />
         <p align="center"> This application allows tea amateurs and aficionados to find a new tea, either through the tea generator or by sorting through the tea collection. Users can create a profile to save their favorite teas.
       <br /><br />
-  <a href="#" target="_blank">
+  <a href="https://github.com/burd5/tea-time" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://itsteatime.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
