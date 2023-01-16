@@ -54,6 +54,26 @@
       </p>
         <p><strong></p>
     </td>
+        <td width="50%" valign="top">
+      <h3 align="center">Tea Time</h3>
+      <br />
+        <a target="_blank" href="https://itsteatime.vercel.app/">
+          <img src="teatime.gif" width="100%" alt=""/>
+        </a>
+      <br />
+        <p align="center"> This application allows tea amateurs and aficionados to find a new tea, either through the tea generator or by sorting through the tea collection. Users can create a profile to save their favorite teas.
+      <br /><br />
+  <a href="https://github.com/burd5/tea-time" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://itsteatime.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">King of the Hill</h3>
       <br />
@@ -73,9 +93,6 @@
       </p>
         <p><strong></p>
     </td>
-  </tr>
-  
-  <tr>
         <td width="50%" valign="top">
       <h3 align="center">Future U Dashboard</h3>
         <br />
@@ -95,6 +112,8 @@
       </p>
         <p><strong></p>
     </td>
+  </tr>
+  <tr>
         <td width="50%" valign="top">
       <h3 align="center">NASA Picture of the Day</h3>
         <br />
@@ -113,9 +132,6 @@
       </p>
         <p><strong></p>
     </td>
-  </tr>
-  
-   <tr>
         <td width="50%" valign="top">
       <h3 align="center">Burd's Brown Egg</h3>
         <br />
@@ -129,24 +145,6 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://burds-brown-egg.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Tea Time</h3>
-      <br />
-        <a target="_blank" href="https://itsteatime.vercel.app/">
-          <img src="teatime.gif" width="100%" alt=""/>
-        </a>
-      <br />
-        <p align="center"> This application allows tea amateurs and aficionados to find a new tea, either through the tea generator or by sorting through the tea collection. Users can create a profile to save their favorite teas.
-      <br /><br />
-  <a href="https://github.com/burd5/tea-time" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://itsteatime.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
