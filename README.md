@@ -137,7 +137,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Tea Time</h3>
       <br />
-        <a target="_blank" href="#">
+        <a target="_blank" href="https://itsteatime.vercel.app/">
           <img src="teatime.gif" width="100%" alt=""/>
         </a>
       <br />
