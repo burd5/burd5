@@ -15,7 +15,7 @@
 <h1 align="center">Connect</h1>
 
 <p align="center">
-  <a href="https://austinburdette.netlify.app/](https://austinburdette.vercel.app/" target="_blank">
+  <a href="https://austinburdette.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=for-the-badge&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/austin-burdette/" target="_blank">
