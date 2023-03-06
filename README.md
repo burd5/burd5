@@ -3,7 +3,7 @@
 <h1>💫 About Me : </h1>
 🔭 I’m currently building <a href="https://github.com/burd5/floridaman" target="_blank">Florida Man</a> <br>
 🌱 I’m currently focusing on Python and MySQL<br>
-👯 I’m looking to collaborate on full stack web applications (especially those that are space/science involved). <br>
+👯 I’m looking to collaborate on full stack web applications and machine learning projects. <br>
 💬 Ask me about Space or what books I'm reading. <br>
 📫 How to reach me: Check social links below. <br>
 ⚡ Fun fact: I have lived in Maryland, Cambodia, Alaska, and Colorado. <br><br>
