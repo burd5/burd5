@@ -77,10 +77,11 @@
     <td width="50%" valign="top">
       <h3 align="center">King of the Hill</h3>
       <br />
-        <a target="_blank" href="https://kingofthehill.cyclic.app/">
+        <a target="_blank">
           <img src="kingofthehill.gif" width="100%" height="100%" alt=""/>
         </a>
       <br />
+        $${\color{red}Bugs \space currently \space being \space fixed}$$
         <p align="center"> A full stack web application that allows user to keep track of the "king of the hill" based on their personal interests. The original app was created to keep track of movies, cafes, and diners. Users can add items to their list and see a ranking of where each spot stands. The current "king" is shown on the main page underneath each collection. 
      <br />
      <br />
