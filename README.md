@@ -1,5 +1,3 @@
-<img src="githubbanner2.jpg" width="100%">
-
 <h1>💫 About Me : </h1>
 🔭 I’m currently building <a href="https://github.com/burd5/floridaman" target="_blank">Florida Man</a> <br>
 🌱 I’m currently focusing on Python, SQL, and dbt<br>
