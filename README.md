@@ -72,25 +72,6 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">King of the Hill</h3>
-      <br />
-        <a target="_blank">
-          <img src="kingofthehill.gif" width="100%" height="100%" alt=""/>
-        </a>
-      <br />
-        <p align="center"> A full stack web application that allows user to keep track of the "king of the hill" based on their personal interests. The original app was created to keep track of movies, cafes, and diners. Users can add items to their list and see a ranking of where each spot stands. The current "king" is shown on the main page underneath each collection. 
-     <br />
-     <br />
-  <a href="https://github.com/burd5/king-of-the-hill" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://kingofthehill.cyclic.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong></p>
-    </td>
         <td width="50%" valign="top">
       <h3 align="center">Future U Dashboard</h3>
         <br />
@@ -105,6 +86,24 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://future-u-dashboard.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong></p>
+    </td>
+            <td width="50%" valign="top">
+      <h3 align="center">Burd's Brown Egg</h3>
+        <br />
+        <a target="_blank" href="#">
+          <img src="burdsbrownegg.gif" width="100%" alt=""/>
+        </a>
+        <br />
+        <p align="center"> Burd's Brown Egg is a React web application for the game Burd's Brown Egg. The game is part myth, part joke, but an actual thing. The website allows user to learn about the game, it's history, the rules, etc. </br></br>
+          
+  <a href="https://github.com/burd5/burds-brown-egg" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://burds-brown-egg.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -125,24 +124,6 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://nasa-api-flame.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong></p>
-    </td>
-        <td width="50%" valign="top">
-      <h3 align="center">Burd's Brown Egg</h3>
-        <br />
-        <a target="_blank" href="#">
-          <img src="burdsbrownegg.gif" width="100%" alt=""/>
-        </a>
-        <br />
-        <p align="center"> Burd's Brown Egg is a React web application for the game Burd's Brown Egg. The game is part myth, part joke, but an actual thing. The website allows user to learn about the game, it's history, the rules, etc. </br></br>
-          
-  <a href="https://github.com/burd5/burds-brown-egg" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://burds-brown-egg.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
