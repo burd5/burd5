@@ -2,8 +2,8 @@
 
 <h1>💫 About Me : </h1>
 🔭 I’m currently building <a href="https://github.com/burd5/floridaman" target="_blank">Florida Man</a> <br>
-🌱 I’m currently focusing on Python and MySQL<br>
-👯 I’m looking to collaborate on full stack web applications and machine learning projects. <br>
+🌱 I’m currently focusing on Python, SQL, and dbt<br>
+👯 I’m looking to collaborate on data projects, including web scraping, ETL/ELT pipelines, and data visualization components. <br>
 💬 Ask me about Space or what books I'm reading. <br>
 📫 How to reach me: Check social links below. <br>
 ⚡ Fun fact: I have lived in Maryland, Cambodia, Alaska, and Colorado. <br><br>
