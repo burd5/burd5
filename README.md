@@ -52,7 +52,9 @@
       </p>
         <p><strong></p>
     </td>
-        <td width="50%" valign="top">
+        </strong>
+      </table>
+<!--         <td width="50%" valign="top">
       <h3 align="center">Tea Time</h3>
       <br />
         <a target="_blank" href="https://itsteatime.vercel.app/">
@@ -131,7 +133,7 @@
     </td>
   </tr>
 </table>
-
+ -->
 
 <h1 align="center">Technologies</h1>
 
