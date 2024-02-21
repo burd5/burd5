@@ -1,8 +1,8 @@
 <h1>💫 About Me : </h1>
-🔭 I’m currently building <a href="https://github.com/burd5/floridaman" target="_blank">Florida Man</a> <br>
-🌱 I’m currently focusing on Python, SQL, and dbt<br>
+🔭 I’m currently building <a href="https://github.com/burd5/congress_stock_trading" target="_blank">Congress Trade Tracker</a> <br>
+🌱 I’m currently focusing on Prefect, DBT and AWS<br>
 👯 I’m looking to collaborate on data projects, including web scraping, ETL/ELT pipelines, and data visualization components. <br>
-💬 Ask me about Space or what books I'm reading. <br>
+💬 Ask me about Space or my current internship with Macronometry <br>
 📫 How to reach me: Check social links below. <br>
 ⚡ Fun fact: I have lived in Maryland, Cambodia, Alaska, and Colorado. <br><br>
 
@@ -19,18 +19,21 @@
   <a href="https://www.linkedin.com/in/austin-burdette/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=35F5FA&style=for-the-badge&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/brownEggBoi" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=35F5FA&style=for-the-badge&logo=twitter&logo-color=white"/>
+  <a href="https://public.tableau.com/app/profile/austin.burdette7768/vizzes" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TABLEAU&color=35F5FA&style=for-the-badge&logo=tableau&logo-color=white"/>
   </a>
-  <a href="https://angel.co/u/austin-burdette" target="_blank">
+<!--   <a href="https://angel.co/u/austin-burdette" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=35F5FA&style=for-the-badge&logo=angellist&logo-color=white"/>
-  </a>
+  </a> -->
 </p>
 
 <br>
 
+<h1 align="center">Data Pipelines</h1>
 
-<h1 align="center">Projects</h1>
+<h1 align="center">Data Visualizations</h1>
+
+<h1 align="center">Other Projects</h1>
 <table>
   
   <tr>
