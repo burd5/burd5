@@ -2,20 +2,23 @@
 🔭 I’m currently building <a href="https://github.com/burd5/congress_stock_trading" target="_blank">Congress Trade Tracker</a> <br>
 🌱 I’m currently focusing on Prefect, DBT and AWS<br>
 👯 I’m looking to collaborate on data projects, including web scraping, ETL/ELT pipelines, and data visualization components. <br>
-💬 Ask me about Space or my current internship with Macronometry <br>
+💬 Ask me about my current internship with Macronometry <br>
 📫 How to reach me: Check social links below. <br>
 ⚡ Fun fact: I have lived in Maryland, Cambodia, Alaska, and Colorado. <br><br>
 
+<!--
 <p align="center">See <a href="https://austinburdette.vercel.app/" target="_blank">my website</a> for more information!</p>
-
+-->
 <br>
 
 <h1 align="center">Connect</h1>
 
 <p align="center">
+  <!--
   <a href="https://austinburdette.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=for-the-badge&logo=react&logo-color=white"/>
   </a>
+  -->
   <a href="https://www.linkedin.com/in/austin-burdette/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=35F5FA&style=for-the-badge&logo=linkedin&logo-color=white"/>
   </a>
@@ -34,6 +37,9 @@
 <h1 align="center">Data Visualizations</h1>
 
 <h1 align="center">Other Projects</h1>
+
+<h1 align="center">Open Source Contributions</h1>
+
 <table>
   
   <tr>
@@ -183,10 +189,10 @@
   </a> 
 </p>
 
-
+<!--
 <h2>Code Wars Rank</h2>
 <img align="center" src="5kyu.png" alt="code wars rank">
-
+-->
 
 
 ---
