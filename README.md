@@ -32,13 +32,13 @@
 
 <br>
 
-<h1 align="center">Data Pipelines</h1>
+<h1>Languages & Tools</h1>
 
-<h1 align="center">Data Visualizations</h1>
+<h1>Data Pipelines</h1>
 
-<h1 align="center">Other Projects</h1>
+<h1>Data Visualizations</h1>
 
-<h1 align="center">Open Source Contributions</h1>
+<h1>Other Projects</h1>
 
 <table>
   
@@ -63,6 +63,8 @@
     </td>
         </strong>
       </table>
+
+<h1 align="center">Open Source Contributions</h1>
 <!--         <td width="50%" valign="top">
       <h3 align="center">Tea Time</h3>
       <br />
