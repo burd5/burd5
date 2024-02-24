@@ -35,7 +35,7 @@
       <h3 align="center">Congress Trades Tracker</h3>
         <br />
       <a target="_blank" href="">
-            <img src="" width="100%"  alt=""/></a>
+            <img src="images/comingsoon.jpeg" width="100%"  alt=""/></a>
         <br />
         <p align="center"> Coming Soon
          <br /><br />
