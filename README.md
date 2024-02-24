@@ -1,7 +1,7 @@
 <h1>💫 About Me : </h1>
 🔭 I’m currently building <a href="https://github.com/burd5/congress_stock_trading" target="_blank">Congress Trade Tracker</a> <br>
 🌱 I’m currently focusing on Prefect, DBT and AWS<br>
-👯 I’m looking to collaborate on data projects, including web scraping, ETL/ELT pipelines, and data visualization components. <br>
+👯 I’m looking to collaborate on data projects that include web scraping, ETL/ELT pipelines, and cloud components <br>
 💬 Ask me about my current internship with Macronometry <br>
 📫 How to reach me: Check social links below. <br>
 ⚡ Fun fact: I have lived in Maryland, Cambodia, Alaska, and Colorado. <br><br>
