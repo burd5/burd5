@@ -79,23 +79,20 @@
       <h3 align="center">Book Club</h3>
         <br />
       <a target="_blank" href="https://bookclub.cyclic.app/">
-            <img src="bookclubfinal.gif" width="100%"  alt=""/>
+            <img src="" width="100%"  alt=""/>
         </a>
         <br />
         <p align="center"> A full stack web application that allows the user to add the name of books and authors they've read for the year. The application sorts the books by rating and allows the user to delete and add books as necessary while keeping track of the total number of books read.
-   <br /><br />
-  <a href="https://github.com/burd5/book_club_ejs" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://bookclub.cyclic.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
+       <br /><br />
+      <a href="https://github.com/burd5/book_club_ejs" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=35F5FA&style=plastic&logo=github&logo-color=white"/></a>
+      <a href="https://bookclub.cyclic.app/" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=35F5FA&style=plastic&logo=wordpress&logo-color=white"/></a>
       </p>
         <p><strong></p>
-    </td>
-        </strong>
-          
-  </table>
+      </td>
+
+</table>
 
 <h1 align="center">Open Source Contributions</h1>
 
