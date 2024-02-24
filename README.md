@@ -94,7 +94,7 @@
 
 </table>
 
-<h1 align="center">Open Source Contributions</h1>
+<h1>Open Source Contributions</h1>
 
 <p>
   <a href="https://github.com/AustinCGomez/Python-File-Mover-CLI/pull/40">Python File Mover CLI</a>
