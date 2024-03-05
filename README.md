@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "/></a>
   <a href="https://public.tableau.com/app/profile/austin.burdette7768/vizzes" target="_blank">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /></a>
-  <a href="" target="_blank">
+  <a href="mailto:austinburdette5@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 </p>
 
