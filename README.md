@@ -70,6 +70,27 @@
 
 <h1>Data Visualizations</h1>
 
+<table>
+  
+  <tr>
+      <td width="50%" valign="top">
+      <h3 align="center">March Madness</h3>
+        <br />
+      <a href="https://marchmadness.streamlit.app/" target="_blank" href="">
+            <img src="images/madness.png" width="100%"  alt=""/></a>
+        <br />
+        <p align="center"> A simple data dashboard that helps casual March Madness fans pick upsets.
+         <br /><br />
+      <a href="(https://github.com/burd5/march_madness)" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://marchmadness.streamlit.app/" target="_blank">
+        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+      </p>
+        <p><strong></p>
+      </td>
+</table>
+
+
 <h1>Other Projects</h1>
 
 <table>
