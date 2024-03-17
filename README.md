@@ -35,9 +35,9 @@
       <h3 align="center">Congress Trades Tracker</h3>
         <br />
       <a target="_blank" href="">
-            <img src="images/comingsoon.jpeg" width="100%"  alt=""/></a>
+            <img src="images/Congress Trades Pipeline Final.png" width="100%"  alt=""/></a>
         <br />
-        <p align="center"> Coming Soon
+        <p align="center"> Description Coming Soon
          <br /><br />
       <a href="https://github.com/burd5/congress_stock_trading" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -84,6 +84,19 @@
       <a href="(https://github.com/burd5/march_madness)" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
       <a href="https://marchmadness.streamlit.app/" target="_blank">
+        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+      </p>
+        <p><strong></p>
+      </td>
+      <td width="50%" valign="top">
+      <h3 align="center">NoFo Grantee Demographic Report</h3>
+        <br />
+      <a href="https://public.tableau.com/app/profile/austin.burdette7768/viz/NovemberNoFoReport/NovMonthlyReport" target="_blank" href="">
+            <img src="images/Nov Monthly Report.png" width="100%"  alt=""/></a>
+        <br />
+        <p align="center"> A monthly report to highlight the raw number and demographics of youth that City of Aurora grantee organizations are serving.
+         <br /><br />
+      <a href="https://public.tableau.com/app/profile/austin.burdette7768/viz/NovemberNoFoReport/NovMonthlyReport" target="_blank">
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
       </p>
         <p><strong></p>
