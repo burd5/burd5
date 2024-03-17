@@ -39,7 +39,7 @@
         <br />
         <p align="center"> Coming Soon
          <br /><br />
-      <a href="" target="_blank">
+      <a href="https://github.com/burd5/congress_stock_trading" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
       <a href="" target="_blank">
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
