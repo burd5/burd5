@@ -35,7 +35,7 @@
       <h3 align="center">Congress Trades Tracker</h3>
         <br />
       <a target="_blank" href="">
-            <img src="images/Congress Trades Pipeline (2).png" width="100%"  alt=""/></a>
+            <img src="images/Congress Trades Pipeline Fargate.png" width="100%"  alt=""/></a>
         <br />
         <p align="center"> Full stack web application that allows users to monitor Congress stock transactions and their performance over time. Built around a data pipeline that utilizes Python, DBT, and AWS Cloud Technologies.
          <br /><br />
