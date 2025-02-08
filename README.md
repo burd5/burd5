@@ -96,7 +96,7 @@
       </p>
         <p><strong></p>
       </td>
-</table> -->
+</table> 
 
 
 <h1>Other Projects</h1>
@@ -127,6 +127,6 @@
 
 <p>
   <a href="https://github.com/AustinCGomez/Python-File-Mover-CLI/pull/40">Python File Mover CLI</a>
-</p>
+</p> -->
 
 
