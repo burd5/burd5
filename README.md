@@ -1,10 +1,5 @@
-<h1>💫 About Me : </h1>
-🔭 I’m currently building <a href="https://github.com/burd5/congress_stock_trading" target="_blank">Congress Trade Tracker</a> <br>
-🌱 I’m diving deeper into Kubernetes and Message Brokers<br>
-👯 I’m looking to collaborate on data projects that include web scraping, ETL/ELT pipelines, and cloud components <br>
-💬 Ask me about ... <br>
-📫 How to reach me: Check social links below. <br>
-⚡ Fun fact: I have lived in Maryland, Cambodia, Alaska, and Colorado. <br><br>
+<h1>About Me : </h1>
+
 
 <h1>Connect</h1>
 
@@ -21,8 +16,8 @@
   <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" />
   <img align="left" alt="PostgreSQL" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" />
   <img align="left" alt="AWS" width="50px" style="padding-right:10px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-  <img align="left" alt="DBT" width="50px" style="padding-right:10px" src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" />
-  <img align="left" alt="Prefect" width="50px" style="padding-right:10px" src="https://docs-legacy.prefect.io/assets/wordmark-color-vertical.svg" />
+  <img align="left" alt="DBT" width="50px" style="padding-right:10px" src="https://www.getdbt.com/_next/image?url=%2Fimg%2Flogos%2Fdbt-logo.svg&w=96&q=75" />
+  <img align="left" alt="Prefect" width="50px" style="padding-right:10px" src="https://www.prefect.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F3ugk85nk%2Fproduction%2Fadfbb1f387c5923c308ead3c652a473fe3a6112e-31x47.svg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75" />
   <img align="left" alt="Tableau" width="50px" style="padding-right:10px" src="https://www.svgrepo.com/show/354428/tableau-icon.svg" />
 
 <br />
