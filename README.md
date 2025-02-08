@@ -68,7 +68,7 @@
           -->
 </table>
 
-<h1>Data Visualizations</h1>
+<!-- <h1>Data Visualizations</h1>
 
 <table>
   
@@ -101,7 +101,7 @@
       </p>
         <p><strong></p>
       </td>
-</table>
+</table> -->
 
 
 <h1>Other Projects</h1>
