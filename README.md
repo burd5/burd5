@@ -1,4 +1,4 @@
-<h1>About Me : </h1>
+<!-- <h1>About Me : </h1>
 
 
 <h1>Connect</h1>
@@ -21,7 +21,7 @@
   <img align="left" alt="Tableau" width="50px" style="padding-right:10px" src="https://www.svgrepo.com/show/354428/tableau-icon.svg" />
 
 <br />
-<br />
+<br />-->
 <h1>Data Pipelines</h1>
 <table>
   
