@@ -32,7 +32,7 @@
       <a target="_blank" href="">
             <img src="images/Congress Trades Pipeline Fargate.png" width="100%"  alt=""/></a>
         <br />
-        <p align="center"> Full stack web application that allows users to monitor Congress stock transactions and their performance over time. Built around a data pipeline that utilizes Python, DBT, and AWS Cloud Technologies.
+<!--         <p align="center"> Full stack web application that allows users to monitor Congress stock transactions and their performance over time. Built around a data pipeline that utilizes Python, DBT, and AWS Cloud Technologies. -->
          <br /><br />
       <a href="https://github.com/burd5/congress_stock_trading" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
